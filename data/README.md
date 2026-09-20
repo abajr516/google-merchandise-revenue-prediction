@@ -11,6 +11,6 @@ kaggle auth login
 ```
 Follow the browser-based authentication steps, then run the data setup script:
 ```bash
-python scripts/download_data.py
+python src/download_data.py
 ```
 The script checks available storage, downloads and extracts the datasets, verifies the files, and removes the temporary ZIPs.
