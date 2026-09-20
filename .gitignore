@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# Raw data
+data/raw/
+
+# Large files
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
