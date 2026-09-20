@@ -13,6 +13,8 @@ Key Findings:
 Again, XYZ
 
 ---
+### Each row represents one visit (session) to the Google Merchandise Store by one user.
+---
 
 ## Environment & Reproducibility
 ### Reproduce the Environment
@@ -38,3 +40,8 @@ python -m ipykernel install --user --name google-merchandise --display-name "Goo
 ```
 Open the project in VS Code, open the desired .ipynb file, and select Google Merchandise Analytics as the Jupyter kernel.
 
+---
+
+## Project Structure
+
+## Disclaimer

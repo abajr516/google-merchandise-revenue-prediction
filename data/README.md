@@ -1,6 +1,6 @@
 # Data
-###
-
+### Source
+Learn more about the data [here](https://www.kaggle.com/competitions/ga-customer-revenue-prediction/data)
 
 ### Download the Dataset
 The raw dataset is not included in this repository because of its large file size.
